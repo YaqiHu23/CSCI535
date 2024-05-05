@@ -1,0 +1,9 @@
+Here is the code for our 535 final project code.
+
+The source is https://github.com/YaqiHu23/CSCI535/tree/main
+
+We have deleted the big files in emotalking face folder, including their pre-trained model, dlib data folder files. In VQA folder, we have deleted the checkpoints as they are too big. Also, we used the MOSI dataset raw videos, which were also deleted. 
+
+As the extracted frames and wavs are too big to submit, we provide the code, without the extracted files.
+
+Thanks for your help! Hope you have a great summer!
