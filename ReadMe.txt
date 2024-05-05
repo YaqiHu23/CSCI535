@@ -1,4 +1,8 @@
-Here is the code for our 535 final project code.
+We are the group: 
+
+Cross-Modal Synthesis in Multimodal Sentiment Analysis: A Deep Learning Approach for Generating Subjective Expressions
+
+It contains the slides and code/results we used in our project.
 
 The source is https://github.com/YaqiHu23/CSCI535/tree/main
 
